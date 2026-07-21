@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Hardik Bhadouria</h1>
   <p>
-    <strong>Data Science @ Amity &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Building @ Kirth</strong>
+    <strong>Data Science @ Amity &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Ex-Intern @ Kirth</strong>
   </p>
 
   <p>
@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Studying **Data Science** at **Amity University**
-- 🚀 Currently building and engineering at **Kirth**
+- 💼 Former **Full-Stack & Software Engineering Intern** at **Kirth**
 - 💻 Specialized in **Full-Stack Development, Data Analytics, & Machine Learning**
 - 🛠️ Focused on modern web architectures, scalable backends, and data-driven solutions
 
@@ -37,12 +37,12 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik1763&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hardik's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik1763&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hardik1763&show_icons=true&theme=tokyonight&hide_border=true" alt="Hardik's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hardik1763&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik1763&theme=dark&hide_border=true" alt="GitHub Streak" height="140" />
+  <img src="https://streak-stats.demolab.com/?user=Hardik1763&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="140" />
 </div>
